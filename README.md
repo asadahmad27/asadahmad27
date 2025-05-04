@@ -25,7 +25,7 @@ Check out some of my work in the pinned repositories below or visit my GitHub pr
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/asad-ahmad27/)
-- 📧 Email: amasadmughal@gmail.com
+- 📧 Email: asadahmaddev@gmail.com
 - 📱 WhatsApp: +92 316 4993706
 - 💻 [GitHub](https://github.com/asadahmad27)
 
