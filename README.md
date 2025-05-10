@@ -6,11 +6,11 @@
 With over **3 years of hands-on experience** in building scalable and performant web applications, I specialize in **JavaScript**, particularly in **React.js** for frontend and **Node.js** for backend. I'm passionate about crafting user-centric applications and collaborating across teams to deliver high-quality solutions that make an impact.
 
 ## 💻 Tech Stack
-- **Frontend**: React.js, Next.js, Tailwind CSS, Redux
+- **Frontend**: React.js, Next.js, Electron.js, Tailwind CSS, Redux
 - **Backend**: Node.js, Express.js, NestJS
 - **Databases**: PostgreSQL, MongoDB, Firebase
-- **DevOps/Tools**: Docker, Git, NGINX, PM2
-- **Others**: REST APIs, JWT Auth, MVC Architecture, Agile Workflow
+- **DevOps/Tools**: AWS, Docker, Git, NGINX, PM2
+- **Others**: REST APIs, Graph APIs, JWT Auth, MVC Architecture, Agile Workflow
 
 ## 🚀 What I Do
 - Build modern, responsive UIs with React
