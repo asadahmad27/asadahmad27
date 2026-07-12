@@ -3,7 +3,7 @@
 
 🎯 **Experienced Software Engineer | Full-stack JavaScript Developer**
 
-With over **3 years of hands-on experience** in building scalable and performant web applications, I specialize in **JavaScript**, particularly in **React.js** for frontend and **Node.js** for backend. I'm passionate about crafting user-centric applications and collaborating across teams to deliver high-quality solutions that make an impact.
+With over **5 years of hands-on experience** in building scalable and performant web applications, I specialize in **JavaScript**, particularly in **React.js** for frontend and **Node.js** for backend. I'm passionate about crafting user-centric applications and collaborating across teams to deliver high-quality solutions that make an impact.
 
 ## 💻 Tech Stack
 - **Frontend**: React.js, Next.js, Electron.js, Tailwind CSS, Redux
