@@ -14,8 +14,6 @@ Currently building **Tournated**, a white-label sports SaaS platform live across
 
 ### 💻 Tech Stack
 
-### 💻 Tech Stack
-
 - **Backend:** Node.js · NestJS · Express.js · GraphQL · REST APIs · TypeScript
 - **Frontend:** React.js · Next.js · Electron.js · Tailwind CSS
 - **Databases:** PostgreSQL · MongoDB · MySQL · Redis
