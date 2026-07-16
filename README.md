@@ -1,34 +1,42 @@
+### 👋 Hi, I'm Asad Ahmad
 
-# 👋 Hi, I'm Asad Ahmad
+**Backend-Focused Full Stack Engineer** | NestJS · GraphQL · TypeScript · PostgreSQL · AWS
 
-🎯 **Experienced Software Engineer | Full-stack JavaScript Developer**
+5+ years building production SaaS platforms — currently leading backend architecture
+and team delivery as Associate Tech Lead at Spadasoft. I specialize in scalable
+GraphQL/NestJS backends, multi-tenant systems, and cloud-native deployments, with
+production experience shipping React/Next.js frontends end-to-end.
 
-With over **5 years of hands-on experience** in building scalable and performant web applications, I specialize in **JavaScript**, particularly in **React.js** for frontend and **Node.js** for backend. I'm passionate about crafting user-centric applications and collaborating across teams to deliver high-quality solutions that make an impact.
-
-## 💻 Tech Stack
-- **Frontend**: React.js, Next.js, Electron.js, Tailwind CSS, Redux
-- **Backend**: Node.js, Express.js, NestJS
-- **Databases**: PostgreSQL, MongoDB, Firebase
-- **DevOps/Tools**: AWS, Docker, Git, NGINX, PM2
-- **Others**: REST APIs, Graph APIs, JWT Auth, MVC Architecture, Agile Workflow
-
-## 🚀 What I Do
-- Build modern, responsive UIs with React
-- Design robust APIs with Node/Nest.js
-- Optimize performance and improve UX
-- Deploy full-stack applications with NGINX & PM2
-- Lead end-to-end project development
-
-## 🌟 Projects
-Check out some of my work in the pinned repositories below or visit my GitHub profile:
-[github.com/asadahmad27](https://github.com/asadahmad27)
-
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/asad-ahmad27/)
-- 📧 Email: asadahmaddev@gmail.com
-- 📱 WhatsApp: +92 316 4993706
-- 💻 [GitHub](https://github.com/asadahmad27)
+Currently building **Tournated**, a white-label sports SaaS platform live across
+15–20 countries.
 
 ---
 
-_“Code is not just written, it’s crafted.”_
+### 💻 Tech Stack
+
+### 💻 Tech Stack
+
+- **Backend:** Node.js · NestJS · Express.js · GraphQL · REST APIs · TypeScript
+- **Frontend:** React.js · Next.js · Electron.js · Tailwind CSS
+- **Databases:** PostgreSQL · MongoDB · MySQL · Redis
+- **Cloud/DevOps:** AWS (EC2, RDS, S3, SNS, SES, CloudWatch, Lambda) · Docker · Nginx · CI/CD
+- **Realtime:** WebSockets · Socket.io · GraphQL Subscriptions · WebRTC
+- **Auth/Security:** JWT · OAuth 2.0 · RBAC
+
+---
+
+### 🚀 Recent Work
+
+- Optimized production API response times from 1000ms → 200ms (80% reduction) on a
+  multi-tenant SaaS platform deployed across 15–20 countries
+- Architected multi-tenant auth system from scratch (JWT + RBAC) supporting granular
+  permissions across user roles
+- Built real-time notification and activity systems using GraphQL subscriptions
+
+---
+
+### 📫 Let's Connect
+
+- 📧 asadahmaddev@gmail.com 
+- 💼 [LinkedIn](https://linkedin.com/in/asad-ahmad27) 
+- 🌐 [Portfolio](https://asad-ahmad.vercel.app/)
